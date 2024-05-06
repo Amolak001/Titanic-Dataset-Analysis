@@ -13,5 +13,7 @@ Data Cleaning
 Data Analysis
 Exploratory Data Analysis (EDA)
 Power BI
+# Data Visualization (Using Power BI)
+You can see the analysis report using this link : https://tr.ee/Titanic_PowerBI
 # Stay Updated
 Don't forget to star ⭐ this repository to stay updated with the latest developments and insights!
